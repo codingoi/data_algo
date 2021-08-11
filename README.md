@@ -1,1 +1,1 @@
-# 40.data_algo
+# data_algo
